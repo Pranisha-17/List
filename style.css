@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom ,rgba(220, 130, 248, 0.68),rgb(243, 133, 151),rgba(220, 130, 248, 0.68));
+}
+.first h2{
+    border-radius: 20px;
+    background-color: rgb(31, 9, 53);
+    color: white;
+    width: 50%;
+    text-align: center;
+    /*align-items: center;
+    justify-content: center;
+    float: center;
+    margin-left: 30%;*/
+    text-shadow: 1px 2px wheat;
+    border-color: white;
+    border-style:solid;
+}
+.first h1{
+    border-radius: 20px;
+    background-color: rgb(31, 9, 53);
+    color: white;
+    text-align: center;
+    border-style: solid;
+}
